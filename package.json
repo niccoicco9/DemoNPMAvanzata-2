@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wantedlex/DemoNPMAvanzata/issues"
   },
-  "homepage": "https://github.com/wantedlex/DemoNPMAvanzata#readme"
+  "homepage": "https://github.com/wantedlex/DemoNPMAvanzata#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
 }
